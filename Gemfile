@@ -29,6 +29,8 @@ gem 'devise', '~> 3.3.0'
 
 gem "paperclip", "~> 4.2"
 
+gem 'aws-sdk', '~> 1.54.0'
+
 
 gem 'sdoc', '~> 0.4.0',          group: :doc
 
