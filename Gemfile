@@ -27,6 +27,8 @@ gem 'jbuilder', '~> 2.0'
 
 gem 'devise', '~> 3.3.0'
 
+gem "paperclip", "~> 4.2"
+
 
 gem 'sdoc', '~> 0.4.0',          group: :doc
 
