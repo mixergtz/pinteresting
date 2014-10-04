@@ -34,6 +34,10 @@ gem 'aws-sdk', '~> 1.54.0'
 
 gem 'masonry-rails'
 
+gem 'will_paginate'
+
+gem 'will_paginate-bootstrap'
+
 
 gem 'sdoc', '~> 0.4.0',          group: :doc
 
